@@ -1,0 +1,25 @@
+.header {
+    background-color:#333;
+    display: flex;
+    justify-content: center;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+    height: 500px;
+}
+
+p {
+    width: 450px;
+    letter-spacing: 2px;
+    font-size: 20px;
+    color: white;
+}
+
+h1 {
+    color: white;
+    font-size: 60px !important;
+}
+
+img {
+    width: 450px;
+}
